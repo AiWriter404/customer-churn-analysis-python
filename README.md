@@ -1,5 +1,3 @@
-# customer-churn-analysis-python
-Customer Churn Analysis using Python, Pandas and Matplotlib
 # Customer Churn Analysis using Python
 
 ## Project Overview
